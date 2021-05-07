@@ -18,7 +18,7 @@
   - :pencil2: [Stories Data Speak](https://duttashi.github.io/blog/)
   - :dart: [Projects](https://duttashi.github.io/projects/)
   - :speaker: [Research](https://scholar.google.com/citations?user=AIGfYdEAAAAJ&hl=en)
-  - :reviewer: [Reviewer](https://publons.com/researcher/1324629/ashish-dutt/)
+  - :bulb: [Reviewer](https://publons.com/researcher/1324629/ashish-dutt/)
   
 [![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=duttashi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
