@@ -20,7 +20,7 @@
   - :speaker: [Research](https://scholar.google.com/citations?user=AIGfYdEAAAAJ&hl=en)
   - :bulb: [Reviewer](https://publons.com/researcher/1324629/ashish-dutt/)
   
-[![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=duttashi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttashi)](https://github.com/duttashi/github-readme-stats)
 
 
 
