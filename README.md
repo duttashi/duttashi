@@ -19,8 +19,3 @@
   - :dart: [Projects](https://duttashi.github.io/projects/)
   - :speaker: [Research](https://scholar.google.com/citations?user=AIGfYdEAAAAJ&hl=en)
   - :bulb: [Reviewer](https://publons.com/researcher/1324629/ashish-dutt/)
-  
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttashi)](https://github.com/duttashi/github-readme-stats)
-
-
-
